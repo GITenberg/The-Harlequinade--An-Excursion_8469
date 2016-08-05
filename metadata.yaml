@@ -1,0 +1,32 @@
+_repo: The-Harlequinade--An-Excursion_8469
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Granville-Barker, Harley
+    alias: Barker, Granville
+    birthdate: 1877
+    deathdate: 1946
+    gutenberg_agent_id: '6291'
+    url: http://www.gutenberg.org/2009/agents/6291
+    wikipedia: http://en.wikipedia.org/wiki/Harley_Granville-Barker
+  - agent_name: Calthrop, Dion Clayton
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '2765'
+    url: http://www.gutenberg.org/2009/agents/2765
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature'
+- !lcc 'PR'
+- GITenberg
+title: 'The Harlequinade: An Excursion'
+url: http://www.gutenberg.org/ebooks/8469
